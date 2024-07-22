@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/buoi2bt1/static/js/main.b8f22c8a.js",
+    "main.css": "/buoi2bt1/static/css/main.279f63b1.css",
+    "main.js": "/buoi2bt1/static/js/main.a847f082.js",
     "index.html": "/buoi2bt1/index.html",
-    "main.b8f22c8a.js.map": "/buoi2bt1/static/js/main.b8f22c8a.js.map"
+    "main.279f63b1.css.map": "/buoi2bt1/static/css/main.279f63b1.css.map",
+    "main.a847f082.js.map": "/buoi2bt1/static/js/main.a847f082.js.map"
   },
   "entrypoints": [
-    "static/js/main.b8f22c8a.js"
+    "static/css/main.279f63b1.css",
+    "static/js/main.a847f082.js"
   ]
 }
