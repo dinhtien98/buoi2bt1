@@ -1,4 +1,4 @@
-import Hook1 from "./components/hook/Hook";
+import Hook1 from "./components/hook/Hook1";
 
 
 function App(){

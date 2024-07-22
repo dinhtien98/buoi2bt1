@@ -1,0 +1,8 @@
+.hook1{
+    padding: 50px;
+    background-color: aqua;
+    font-size: 30px;
+}
+.hook1.active{
+    background-color: red;
+}

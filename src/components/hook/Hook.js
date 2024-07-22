@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-export default function Hook1(){
+export default function Hook(){
     const [number1, setNumber1]=useState("")
     const [number2, setNumber2]=useState("")
     const [res,setRes]=useState("")
