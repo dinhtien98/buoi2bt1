@@ -2,7 +2,22 @@
     padding: 50px;
     background-color: aqua;
     font-size: 30px;
+    transform: translateX(0);
+    transition: 2s;
 }
 .hook1.active{
     background-color: red;
+    transform: translateX(-110%);
+}
+
+.meo{
+    width: 100%;
+    height: 200px;
+    background-color: green;
+    transform: translateX(-110%);
+    transition: 1s;
+}
+.meo.active{
+    background: yellow;
+    transform: translateX(0);
 }
